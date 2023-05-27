@@ -7,7 +7,7 @@ import time
 
 import xml.etree.ElementTree as Et
 from jsonrpcclient import request, parse_json, Ok, Error
-from qrc_methods import ControlMethods, ComponentMethods, ChangeGroupMethods, MixerMethods, LoopPlayerMethods, \
+from .qrc_methods import ControlMethods, ComponentMethods, ChangeGroupMethods, MixerMethods, LoopPlayerMethods, \
     SnapshotMethods
 
 

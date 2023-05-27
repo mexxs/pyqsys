@@ -1,2 +1,1 @@
-import qrc_methods
-from qsc_core import Core as Core
+from .qsc_core import Core as Core

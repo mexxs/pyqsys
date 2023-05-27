@@ -16,7 +16,7 @@ The aim of this project is to provide a high level interface while also exposing
 Create a Core object and just call the methods with the correct [arguments](https://q-syshelp.qsc.com/#External_Control_APIs/QRC/QRC_Commands.htm).
 
 ```python
-from qsc_core import Core
+from pyqsys import Core
 
 core = Core("192.168.0.135")
 core.connect()
