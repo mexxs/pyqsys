@@ -32,9 +32,6 @@ core.Component.get_controls(component_name)
 
 # Load snapshot
 core.Snapshot.load(bank_name, bank_number, ramp)
-
-# List imported named controls
-print(core.controls)
 ```
 
 ## References
