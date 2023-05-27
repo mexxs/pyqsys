@@ -1,7 +1,7 @@
 # pyqsys
 
 ## Description
-This is an attempt to create a Python library to communicate with QSYS QSC Cores over their QRC (JSONRPC 2.0) protocol.
+This is an attempt to create a Python library to communicate with QSYS QSC Cores or the QSYS Designer in emulation mode over their QRC (JSONRPC 2.0) protocol.
 The aim of this project is to provide a high level interface while also exposing the bare QRC methods. 
 
 ## Dependencies
