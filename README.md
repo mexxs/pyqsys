@@ -12,6 +12,10 @@ The aim of this project is to provide a high level interface while also exposing
 - [x] Bare QRC methods
 - [ ] High level interface
 
+## How to install
+
+```pip install jsonrpcclient pyqsys```
+
 ## Usage
 Create a Core object and just call the methods with the correct [arguments](https://q-syshelp.qsc.com/#External_Control_APIs/QRC/QRC_Commands.htm).
 
